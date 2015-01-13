@@ -1,0 +1,52 @@
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a31c" }, "state" : "Alaska", "state_code" : "AK" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a31d" }, "state" : "Alabama", "state_code" : "AL" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a31e" }, "state" : "Arkansas", "state_code" : "AR" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a31f" }, "state" : "Arizona", "state_code" : "AZ" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a320" }, "state" : "California", "state_code" : "CA" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a321" }, "state" : "Colorado", "state_code" : "CO" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a322" }, "state" : "Connecticut", "state_code" : "CT" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a323" }, "state" : "District of Columbia", "state_code" : "DC" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a324" }, "state" : "Delaware", "state_code" : "DE" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a325" }, "state" : "Florida", "state_code" : "FL" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a326" }, "state" : "Georgia", "state_code" : "GA" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a327" }, "state" : "Hawaii", "state_code" : "HI" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a328" }, "state" : "Iowa", "state_code" : "IA" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a329" }, "state" : "Idaho", "state_code" : "ID" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a32a" }, "state" : "Illinois", "state_code" : "IL" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a32b" }, "state" : "Indiana", "state_code" : "IN" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a32c" }, "state" : "Kansas", "state_code" : "KS" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a32d" }, "state" : "Kentucky", "state_code" : "KY" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a32e" }, "state" : "Louisiana", "state_code" : "LA" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a32f" }, "state" : "Massachusetts", "state_code" : "MA" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a330" }, "state" : "Maryland", "state_code" : "MD" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a331" }, "state" : "Maine", "state_code" : "ME" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a332" }, "state" : "Michigan", "state_code" : "MI" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a333" }, "state" : "Minnesota", "state_code" : "MN" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a334" }, "state" : "Missouri", "state_code" : "MO" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a335" }, "state" : "Mississippi", "state_code" : "MS" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a336" }, "state" : "Montana", "state_code" : "MT" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a337" }, "state" : "North Carolina", "state_code" : "NC" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a338" }, "state" : "North Dakota", "state_code" : "ND" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a339" }, "state" : "Nebraska", "state_code" : "NE" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a33a" }, "state" : "New Hampshire", "state_code" : "NH" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a33b" }, "state" : "New Jersey", "state_code" : "NJ" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a33c" }, "state" : "New Mexico", "state_code" : "NM" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a33d" }, "state" : "Nevada", "state_code" : "NV" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a33e" }, "state" : "New York", "state_code" : "NY" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a33f" }, "state" : "Ohio", "state_code" : "OH" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a340" }, "state" : "Oklahoma", "state_code" : "OK" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a341" }, "state" : "Oregon", "state_code" : "OR" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a342" }, "state" : "Pennsylvania", "state_code" : "PA" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a343" }, "state" : "Rhode Island", "state_code" : "RI" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a344" }, "state" : "South Carolina", "state_code" : "SC" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a345" }, "state" : "South Dakota", "state_code" : "SD" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a346" }, "state" : "Tennessee", "state_code" : "TN" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a347" }, "state" : "Texas", "state_code" : "TX" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a348" }, "state" : "Utah", "state_code" : "UT" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a349" }, "state" : "Virginia", "state_code" : "VA" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a34a" }, "state" : "Vermont", "state_code" : "VT" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a34b" }, "state" : "Washington", "state_code" : "WA" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a34c" }, "state" : "Wisconsin", "state_code" : "WI" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a34d" }, "state" : "West Virginia", "state_code" : "WV" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a34e" }, "state" : "Wyoming", "state_code" : "WY" }
+{ "_id" : { "$oid" : "54b4b3b85d7ba65e3c00a34f" }, "state" : "Puerto Rico", "state_code" : "PR" }
